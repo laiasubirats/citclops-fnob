@@ -1,0 +1,21 @@
+<C3C7357CF01A32B13.1480272616988><Dataset_name>Ocean colour via citclops app</Dataset_name><Observation_ID>3C7357CF01A32B131480272607013</Observation_ID><Date_time>2016-11-27T19:50+0100</Date_time><Measuring_area_type>Point</Measuring_area_type><Location_lat_long>-15.261667, -27.211111</Location_lat_long><Datum_coordinate_system>4326:WGS84</Datum_coordinate_system><Parameters_measured>R410</Parameters_measured><Abstract><![CDATA[<LocationAccuracy>
+0.0</LocationAccuracy>
+<CameraParameters>
+<Antibanding>auto</Antibanding>
+<AutoExposureLock>false</AutoExposureLock>
+<AutoWhiteBalanceLock>false</AutoWhiteBalanceLock>
+<ColorEffect>none</ColorEffect>
+<ExposureCompensation>0</ExposureCompensation>
+<FlashMode>off</FlashMode>
+<FocalLength>4.6</FocalLength>
+<FocusMode>auto</FocusMode>
+<HorizontalViewAngle>68.4</HorizontalViewAngle>
+<JpegQuality>85</JpegQuality>
+<PictureFormat>256</PictureFormat>
+<PictureSize>1280x720</PictureSize>
+<Scene>auto</Scene>
+<VerticalViewAngle>38.18</VerticalViewAngle>
+<WhiteBalance>auto</WhiteBalance>
+<Zoom>0</Zoom>
+</CameraParameters>
+]]></Abstract><Platform_type>71:Human</Platform_type><device_type>XXX:???????</device_type><device_name>Sony D5803</device_name><Station_name>3C7357CF01A32B13</Station_name><PI>3C7357CF01A32B13</PI><Station_start_date_time>2016-11-27T19:50+0100</Station_start_date_time><Station_end_date_time>2016-11-27T19:50+0100</Station_end_date_time><Language>en</Language><Profile>VOLUNTEER</Profile><Data_format>JPG</Data_format><Data_file>C3C7357CF01A32B13.1480272616988.jpg</Data_file><FU_Value>2</FU_Value><viewing_angle>33</viewing_angle><azimuth_angle>332</azimuth_angle><Cloud_Fraction>Scattered</Cloud_Fraction><Rain>No</Rain><Bottom>No</Bottom><UserHasSecchiDisk>false</UserHasSecchiDisk><UserHasPlasticFUScale>false</UserHasPlasticFUScale></C3C7357CF01A32B13.1480272616988>

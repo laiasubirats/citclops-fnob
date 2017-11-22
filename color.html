@@ -309,7 +309,9 @@
 			center: new L.LatLng(40.63, 0.7), 
 			zoomControl: false,
 			zoom: 3,
-			layers: [teambwr,teamvende]
+			minZoom: 3,
+			layers: [teambwr,teamvende],
+			maxBounds: [[-90.0,-180.0],[90.0,180.0]]
 		});
 		
 		

@@ -1,4 +1,4 @@
-<C3C7357CF01A32B13.1479751038533><Dataset_name>Ocean colour via citclops app</Dataset_name><Observation_ID>3C7357CF01A32B131479751035591</Observation_ID><Date_time>2016-11-21T18:57+0100</Date_time><Measuring_area_type>Point</Measuring_area_type><Location_lat_long>6.769167, -27.140000</Location_lat_long><Datum_coordinate_system>4326:WGS84</Datum_coordinate_system><Parameters_measured>R410</Parameters_measured><Abstract><![CDATA[<LocationAccuracy>
+<C3C7357CF01A32B13.1479751038533><Dataset_name>Ocean colour via citclops app</Dataset_name><Observation_ID>3C7357CF01A32B131479751035591</Observation_ID><Date_time>2016-11-21T18:57+0100</Date_time><Measuring_area_type>Point</Measuring_area_type><Location_lat_long>4.9E-324,4.9E-324</Location_lat_long><Datum_coordinate_system>4326:WGS84</Datum_coordinate_system><Parameters_measured>R410</Parameters_measured><Abstract><![CDATA[<LocationAccuracy>
 0.0</LocationAccuracy>
 <CameraParameters>
 <Antibanding>auto</Antibanding>

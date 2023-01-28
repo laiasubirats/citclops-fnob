@@ -1,0 +1,21 @@
+<CFE7663F76EA90789.1421242898362><Dataset_name>Ocean colour via citclops app</Dataset_name><Observation_ID>FE7663F76EA907891421242815289</Observation_ID><Date_time>2015-01-14T13:40+0000</Date_time><Measuring_area_type>Point</Measuring_area_type><Location_lat_long>4.9E-324,4.9E-324</Location_lat_long><Datum_coordinate_system>4326:WGS84</Datum_coordinate_system><Parameters_measured>R410</Parameters_measured><Abstract><![CDATA[<LocationAccuracy>
+0.0</LocationAccuracy>
+<CameraParameters>
+<Antibanding>auto</Antibanding>
+<AutoExposureLock>false</AutoExposureLock>
+<AutoWhiteBalanceLock>false</AutoWhiteBalanceLock>
+<ColorEffect>none</ColorEffect>
+<ExposureCompensation>0</ExposureCompensation>
+<FlashMode>off</FlashMode>
+<FocalLength>4.6</FocalLength>
+<FocusMode>auto</FocusMode>
+<HorizontalViewAngle>68.4</HorizontalViewAngle>
+<JpegQuality>85</JpegQuality>
+<PictureFormat>256</PictureFormat>
+<PictureSize>1280x720</PictureSize>
+<Scene>auto</Scene>
+<VerticalViewAngle>38.18</VerticalViewAngle>
+<WhiteBalance>auto</WhiteBalance>
+<Zoom>0</Zoom>
+</CameraParameters>
+]]></Abstract><Platform_type>71:Human</Platform_type><device_type>XXX:???????</device_type><device_name>Sony D5803</device_name><Station_name>FE7663F76EA90789</Station_name><PI>FE7663F76EA90789</PI><Station_start_date_time>2015-01-14T13:40+0000</Station_start_date_time><Station_end_date_time>2015-01-14T13:40+0000</Station_end_date_time><Language>en</Language><Profile>VOLUNTEER</Profile><Data_format>JPG</Data_format><Data_file>CFE7663F76EA90789.1421242898362.jpg</Data_file><FU_Value>2</FU_Value><viewing_angle>30</viewing_angle><azimuth_angle>137</azimuth_angle><Cloud_Fraction>Clear</Cloud_Fraction><Rain>No</Rain><Bottom>No</Bottom><UserHasSecchiDisk>false</UserHasSecchiDisk><UserHasPlasticFUScale>false</UserHasPlasticFUScale></CFE7663F76EA90789.1421242898362>

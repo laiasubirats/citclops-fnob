@@ -329,7 +329,10 @@
 		// Specify divisions every 10 degrees
 		L.graticule({ interval: 10 }).addTo(map);
 
-    var bingLayer = L.tileLayer.bing(BING_KEY).addTo(map)
+    var bingLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+    maxZoom: 20
+}).addTo(map);
 	
 		 
 	
